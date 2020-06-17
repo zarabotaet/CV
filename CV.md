@@ -6,7 +6,7 @@
 
 | Type     | Contact                                                                  |
 | -------- | ------------------------------------------------------------------------ |
-| Tel      | [+380958868917](tel:+380958868917)                                       |
+| Tel      | +380958868917                                                            |
 | Email    | 3arabotaet@gmail.com                                                     |
 | Skype    | zarabotaet                                                               |
 | Telegram | [Telegram profile](https://t.me/zarabotaet)                              |
@@ -37,7 +37,7 @@
 
 ## Work Experience Details
 
-<table style="display: table">
+<table>
   <tr>
     <th align="left">Skills</th>
     <th align="left">Experience</th>
