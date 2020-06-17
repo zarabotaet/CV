@@ -37,7 +37,7 @@
 
 ## Work Experience Details
 
-<table>
+<table style="display: table">
   <tr>
     <th align="left">Skills</th>
     <th align="left">Experience</th>
