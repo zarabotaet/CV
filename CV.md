@@ -123,13 +123,13 @@
       <td>Redux</td>
       <td>0.5</td>
       <td>intermediate</td>
-      <td>2</td>
+      <td>2018</td>
     </tr>
     <tr>
       <td>Appolo</td>
       <td>1</td>
       <td>advanced</td>
-      <td>1</td>
+      <td>2019</td>
     </tr>
     <tr>
       <td>Effector</td>
@@ -141,7 +141,7 @@
       <td>Styled components</td>
       <td>1</td>
       <td>advaced</td>
-      <td>0.5</td>
+      <td>2019</td>
     </tr>
     <tr>
       <td>React router</td>
@@ -153,25 +153,25 @@
       <td>Vue</td>
       <td>0.5</td>
       <td>intermediate</td>
-      <td>1</td>
+      <td>2019</td>
     </tr>
     <tr>
       <td>Vuex</td>
       <td>0.5</td>
       <td>intermediate</td>
-      <td>1</td>
+      <td>2019</td>
     </tr>
     <tr>
       <td>Nuxt</td>
       <td>0.5</td>
       <td>intermediate</td>
-      <td>1</td>
+      <td>2019</td>
     </tr>
     <tr>
       <td>Svelte</td>
       <td>1</td>
       <td>novice</td>
-      <td>0.5</td>
+      <td>2020</td>
     </tr>
     <tr>
       <td colspan="4" align="center"><h3>IDE</h3></td>
@@ -240,7 +240,7 @@
       <td>Notion</td>
       <td>1</td>
       <td>intermediate</td>
-      <td>0.5</td>
+      <td>2019</td>
     </tr>
     <tr>
       <td colspan="4" align="center"><h3>Environment Tools</h3></td>
@@ -285,13 +285,13 @@
       <td>Rollup</td>
       <td>0.5</td>
       <td>novice</td>
-      <td>0.5</td>
+      <td>2020</td>
     </tr>
     <tr>
       <td>Parcel</td>
       <td>1</td>
       <td>novice</td>
-      <td>0.5</td>
+      <td>2020</td>
     </tr>
     <tr>
       <td>Snowpack</td>
@@ -309,7 +309,7 @@
       <td>Bitbucket CI</td>
       <td>1.5</td>
       <td>intermediate</td>
-      <td>1</td>
+      <td>2019</td>
     </tr>
     <tr>
       <td>Git</td>
@@ -342,25 +342,25 @@
       <td>AdobeXd</td>
       <td>0.5</td>
       <td>novice</td>
-      <td>1.5</td>
+      <td>2018</td>
     </tr>
     <tr>
       <td>AdobeXd</td>
       <td>0.5</td>
       <td>novice</td>
-      <td>1.5</td>
+      <td>2018</td>
     </tr>
     <tr>
       <td>Invision</td>
       <td>0.5</td>
       <td>novice</td>
-      <td>0.5</td>
+      <td>2020</td>
     </tr>
     <tr>
       <td>Avacode</td>
       <td>0.5</td>
       <td>intermediate</td>
-      <td>1.5</td>
+      <td>2018</td>
     </tr>
   </table>
 </details>
