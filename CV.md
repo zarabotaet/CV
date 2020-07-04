@@ -26,11 +26,11 @@
 ## Skils
 
 - Excellent soft skills, vast experience in communication between backend team, design team, business.
-- Experience managing a team of 2-5 people
-- Teammate training skill (work in htmlacademy)
-- Skill creating a product from scratch and maintain legacy
+- Experience managing a team of 2-5 people.
+- Teammate training skill (work in htmlacademy).
+- Skill creating a product from scratch and maintain legacy.
 - Develop front-end products all kinds of complexity, making deep research.
-- Design human interface architecture
+- Designing human-friendly interfaces.
 
 ## Work Experience
 
