@@ -1,6 +1,6 @@
 # Dmitrij Shuleshov, 27yo, Ukraine
 
-## Front End Developer 🍅
+## 🍅💪 Front End Developer 
 
 ## Date - June 2020
 
