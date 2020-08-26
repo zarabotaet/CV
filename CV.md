@@ -21,7 +21,7 @@
 
 - Russian: Native
 - Ukrainian: Fluent
-- English: Intermediate
+- English: Pre-Intermediate
 
 ## Skils
 
