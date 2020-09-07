@@ -10,7 +10,7 @@
 | -------- | ------------------------------------------------------------------------ |
 | Tel      | +380958868917                                                            |
 | Email    | 3arabotaet@gmail.com                                                     |
-| Skype    | zarabotaet                                                               |
+| Skype    | [Skype profile](https://join.skype.com/invite/oegqg0lON77f)              |
 | Telegram | [Telegram profile](https://t.me/zarabotaet)                              |
 | Linkedin | [Linkedin profile](https://www.linkedin.com/in/zarabotaet/)              |
 | GitHub   | [GitHub profile](https://github.com/zarabotaet)                          |
