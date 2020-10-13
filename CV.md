@@ -23,7 +23,7 @@
 - Ukrainian: Fluent
 - English: Pre-Intermediate
 
-## Skils
+## Skills
 
 - Excellent soft skills, vast experience in communication between backend team, design team, business.
 - Experience managing a team of 2-5 people.
@@ -140,7 +140,7 @@
     <tr>
       <td>Styled components</td>
       <td>1</td>
-      <td>advaced</td>
+      <td>advanced</td>
       <td>2019</td>
     </tr>
     <tr>
@@ -183,7 +183,7 @@
       <td>now</td>
     </tr>
     <tr>
-      <td>Сloud IDE</td>
+      <td>Cloud IDE</td>
       <td>1</td>
       <td>intermediate</td>
       <td>now</td>
@@ -330,7 +330,7 @@
       <td>now</td>
     </tr>
     <tr>
-      <td colspan="4" align="center"><h3>Desing Tools</h3></td>
+      <td colspan="4" align="center"><h3>Design Tools</h3></td>
     </tr>
     <tr>
       <td>Figma</td>
@@ -418,5 +418,5 @@
 | Position            | Trainee Front End Developer, freelancer        |
 | Company             | FL.ru                                          |
 | Type of work        | remote                                         |
-| Project description | makin static layout for web stores and portals |
+| Project description | making static layout for web stores and portals |
 | Project stack       | HTML, CSS, gulp, SCSS, js, jquery              |
