@@ -2,7 +2,7 @@
 
 ## 🍅💪 Front End Developer 
 
-## Date - June 2020
+## Date - September 2020
 
 ## Contacts
 
