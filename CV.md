@@ -83,6 +83,12 @@
       <td>novice</td>
       <td>2019</td>
     </tr>
+     <tr>
+      <td>LISP</td>
+      <td>0.5</td>
+      <td>novice</td>
+      <td>2020</td>
+    </tr>
     <tr>
       <td colspan="4" align="center"><h3>Web technologies</h3></td>
     </tr>
