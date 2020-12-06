@@ -351,12 +351,6 @@
       <td>2018</td>
     </tr>
     <tr>
-      <td>AdobeXd</td>
-      <td>0.5</td>
-      <td>novice</td>
-      <td>2018</td>
-    </tr>
-    <tr>
       <td>Invision</td>
       <td>0.5</td>
       <td>novice</td>
