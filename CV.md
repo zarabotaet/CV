@@ -34,10 +34,6 @@
 
 ## Work Experience
 
-<details>
-  <summary>
-    Looong list
-  </summary>
   <table>
     <tr>
       <th align="left">Skills</th>
@@ -363,7 +359,6 @@
       <td>2018</td>
     </tr>
   </table>
-</details>
 
 ## Project experience
 
