@@ -1,4 +1,4 @@
-# Dmitrij Shuleshov, `/`${differenceInYears('1992-09-30', new Date)}yo/``, Ukraine
+# Dmitrij Shuleshov, `{differenceInYears('1992-09-30', new Date)}yo`, Ukraine
 
 ## 🍅💪 Front End Developer 
 
