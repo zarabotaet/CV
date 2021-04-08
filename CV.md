@@ -128,7 +128,7 @@
       <td>2018</td>
     </tr>
     <tr>
-      <td>Appolo</td>
+      <td>Apollo</td>
       <td>1</td>
       <td>advanced</td>
       <td>2019</td>
@@ -402,7 +402,7 @@
 | Company             | intelaxy                                                              |
 | Type of work        | remote                                                                |
 | Project description | corporate CRM system, service for car selection, service for bloggers |
-| Project stack       | React, Appolo, React Router, Rff, wss, CRA, jest                      |
+| Project stack       | React, Apollo, React Router, Rff, wss, CRA, jest                      |
 
 ### 01.2015 – 06.2018
 
