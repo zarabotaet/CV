@@ -1,6 +1,6 @@
 # Dmytro Shulieshov, `{differenceInYears('1992-09-30', new Date)}yo`, Ukraine
 
-## 🍅💪 Front End Developer 
+## 🍅💪 Front End Developer - Team lead
 
 ## Date - September 2020
 
@@ -14,18 +14,19 @@
 | Telegram | [Telegram profile](https://t.me/zarabotaet)                              |
 | Linkedin | [Linkedin profile](https://www.linkedin.com/in/zarabotaet/)              |
 | GitHub   | [GitHub profile](https://github.com/zarabotaet)                          |
-| FL       | [FL profile](https://www.fl.ru/users/v_e_c_t_o_r/)                       |
 | Upwork   | [Upwork profile](https://www.upwork.com/freelancers/~01cab19e446fc4190f) |
+| FL       | [FL profile](https://www.fl.ru/users/v_e_c_t_o_r/)                       |
 
 ## Foreign Languages
 
 - Russian: Native
 - Ukrainian: Fluent
-- English: Pre-Intermediate
+- English: Intermediate
+- Spanish: Pre-Intermediate
 
 ## Skills
 
-- Excellent soft skills, vast experience in communication between backend team, design team, business.
+- Excellent soft skills, vast experience in communication between clients and teammates all over the world.
 - Experience managing a team of 2-5 people.
 - Teammate training skill (work in htmlacademy).
 - Skill creating a product from scratch and maintain legacy.
