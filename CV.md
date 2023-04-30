@@ -26,11 +26,11 @@
 
 ## Skills
 
-- Excellent soft skills, vast experience in communication between clients and teammates all over the world.
-- Experience managing a team of 2-5 people.
+- Excellent soft skills, and vast experience in communication between clients and teammates all over the world.
+- Experience managing teams of up to 10 people.
 - Teammate training skill (work in htmlacademy).
-- Skill creating a product from scratch and maintain legacy.
-- Develop front-end products all kinds of complexity, making deep research.
+- Сreating a product from scratch and maintaining legacy projects.
+- Develop front-end products with all kinds of complexity, doing deep research.
 - Designing human-friendly interfaces.
 
 ## Work Experience
