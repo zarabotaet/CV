@@ -33,6 +33,82 @@
 - Develop front-end products with all kinds of complexity, doing deep research.
 - Designing human-friendly interfaces.
 
+## Project experience
+
+### 05.2021 – now  
+
+|                     |                                                                               |
+| ------------------- | ----------------------------------------------------------                    |
+| Position            | Senior Front End Developer / Team lead                                        |
+| Company             | ab-soft.net / ringcentral.com                                                 |
+| Type of work        | remote / hybrid                                                               |
+| Project description | several admin portals and apps with a total of ~ 5 mloc                       |
+| Project stack       | React, Jest, TypeScript, Webpack, rtl, several custom code generators         |
+
+### 11.2020 – 05.2021 
+
+|                     |                                                                               |
+| ------------------- | ----------------------------------------------------------                    |
+| Position            | Senior Front End Developer                                                    |
+| Company             | my.ua                                                                         |
+| Type of work        | remote                                                                        |
+| Project description | news portal                                                                   |
+| Project stack       | React, Effector, NextJs, Jest, TypeScript, Webpack, custom fingerprint library|
+
+### 05.2020 – 11.2020
+
+|                     |                                                            |
+| ------------------- | ---------------------------------------------------------- |
+| Position            | Senior Front End Developer                                 |
+| Company             | VTB                                                        |
+| Type of work        | remote                                                     |
+| Project description | enterprise software                                        |
+| Project stack       | React, Effector, React Router, Formik, TypeScript, Webpack |
+
+### 01.2020 – 05.2020
+
+[CTO Reference](https://drive.google.com/file/d/1s8NSBuDTUm4fsUiexCqvQT7MvuWubqZo/view?usp=sharing)
+
+|                     |                                                                            |
+| ------------------- | -------------------------------------------------------------------------- |
+| Position            | Senior Front End Developer, team lead                                      |
+| Company             | easyEventHire                                                              |
+| Type of work        | remote                                                                     |
+| Project description | [service portal, equipment rental in the UK](https://easyeventhireuk.com/) |
+| Project stack       | React, Effector, React Router, HookForm, cypress, Reakit, CRA              |
+
+### 09.2019 – 12.2019
+
+|                     |                                                    |
+| ------------------- | -------------------------------------------------- |
+| Position            | Middle Front End Developer                         |
+| Company             | Stik                                               |
+| Type of work        | remote                                             |
+| Project description | [new generation issue tracker](https://shtab.app/) |
+| Project stack       | Vue, Vuex, Vue Router, Electron                    |
+
+### 06.2018 – 08.2019
+
+|                     |                                                                       |
+| ------------------- | --------------------------------------------------------------------- |
+| Position            | Junior (Middle) Front End Developer                                   |
+| Company             | intelaxy                                                              |
+| Type of work        | remote                                                                |
+| Project description | corporate CRM system, service for car selection, service for bloggers |
+| Project stack       | React, Apollo, React Router, Rff, wss, CRA, jest                      |
+
+### 01.2015 – 06.2018
+
+[Profile link](https://www.fl.ru/users/v_e_c_t_o_r/)
+
+|                     |                                                |
+| ------------------- | ---------------------------------------------- |
+| Position            | Trainee Front End Developer, freelancer        |
+| Company             | FL.ru                                          |
+| Type of work        | remote                                         |
+| Project description | making static layout for web stores and portals|
+| Project stack       | HTML, CSS, gulp, SCSS, js, jquery              |
+
 ## Work Experience
 
   <table>
@@ -360,59 +436,3 @@
       <td>2018</td>
     </tr>
   </table>
-
-## Project experience
-
-### 05.2020 – now
-
-|                     |                                                            |
-| ------------------- | ---------------------------------------------------------- |
-| Position            | Senior Front End Developer                                 |
-| Company             | VTB                                                        |
-| Type of work        | remote                                                     |
-| Project description | enterprise software                                        |
-| Project stack       | React, Effector, React Router, Formik, TypeScript, Webpack |
-
-### 01.2020 – 05.2020
-
-[CTO Reference](https://drive.google.com/file/d/1s8NSBuDTUm4fsUiexCqvQT7MvuWubqZo/view?usp=sharing)
-
-|                     |                                                                            |
-| ------------------- | -------------------------------------------------------------------------- |
-| Position            | Senior Front End Developer, team lead                                      |
-| Company             | easyEventHire                                                              |
-| Type of work        | remote                                                                     |
-| Project description | [service portal, equipment rental in the UK](https://easyeventhireuk.com/) |
-| Project stack       | React, Effector, React Router, HookForm, cypress, Reakit, CRA              |
-
-### 09.2019 – 12.2019
-
-|                     |                                                    |
-| ------------------- | -------------------------------------------------- |
-| Position            | Middle Front End Developer                         |
-| Company             | Stik                                               |
-| Type of work        | remote                                             |
-| Project description | [new generation issue tracker](https://shtab.app/) |
-| Project stack       | Vue, Vuex, Vue Router, Electron                    |
-
-### 06.2018 – 08.2019
-
-|                     |                                                                       |
-| ------------------- | --------------------------------------------------------------------- |
-| Position            | Junior (Middle) Front End Developer                                   |
-| Company             | intelaxy                                                              |
-| Type of work        | remote                                                                |
-| Project description | corporate CRM system, service for car selection, service for bloggers |
-| Project stack       | React, Apollo, React Router, Rff, wss, CRA, jest                      |
-
-### 01.2015 – 06.2018
-
-[Profile link](https://www.fl.ru/users/v_e_c_t_o_r/)
-
-|                     |                                                |
-| ------------------- | ---------------------------------------------- |
-| Position            | Trainee Front End Developer, freelancer        |
-| Company             | FL.ru                                          |
-| Type of work        | remote                                         |
-| Project description | making static layout for web stores and portals |
-| Project stack       | HTML, CSS, gulp, SCSS, js, jquery              |
