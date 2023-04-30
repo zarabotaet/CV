@@ -2,7 +2,7 @@
 
 ## 🍅💪 Front End Developer - Team lead
 
-## Date - September 2020
+## Date - may 2023
 
 ## Contacts
 
